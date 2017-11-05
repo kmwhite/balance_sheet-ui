@@ -1,0 +1,11 @@
+{
+  "name": "balance-sheet-ui",
+  "version": "0.1.0",
+  "description": "A web-interface to the BalanceSheet API",
+  "main": "src/index.js",
+  "repository": "git@github.com:kmwhite/balance_sheet-api.git",
+  "author": "Kristofer M White",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+  }
+}
